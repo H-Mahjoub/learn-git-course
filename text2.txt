@@ -1,0 +1,4 @@
+Hi again, this is text2
+line3
+line6
+bye bye!
